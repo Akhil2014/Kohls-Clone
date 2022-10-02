@@ -10,7 +10,7 @@ Kohl's  is an American department store retail chain, operated by Kohl's Corpora
 2. Manoj Barki
 3. Karthik S
 4. Sonu
-5. Akhil
+5. Akhil khan
 6. Nikhil Buwade
 
 
